@@ -1,0 +1,47 @@
+body {
+    background-image:  url(../images/train.jpg);
+    background-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: bold;
+  }
+
+  .container {
+    background-color: rgb(167, 163, 160);
+   margin-top: 10%;
+   margin-bottom: 10%;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+
+      h1 {
+          color: crimson;
+          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         text-align: center;
+         font-size: 350% !important;
+         
+      }
+
+      th {
+        color: rgb(53, 3, 13);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+      h3 {
+          color: lawngreen;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+
+      label {
+          color: antiquewhite;
+      }
+
+      #add-train {
+          background-color: crimson;
+      }
+
+      .penel-heading {
+          background-color: khaki !important;
+          background-size: 100% !important;
+         
+      }
